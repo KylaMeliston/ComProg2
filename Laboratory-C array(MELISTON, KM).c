@@ -1,3 +1,5 @@
+/* Pasensya na mao rajud ni kaya sa powers hehe, bawi rako next time sir kay gatuon pako hehehe*/
+
 #include <stdio.h>
 int main()
 {
